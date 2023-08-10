@@ -4,8 +4,8 @@
 This project provides a software interface for controlling the lighting system of a Nesvizh Castle model. It allows for dynamic, real-time customization of lighting scenes, which add to the realism and appeal of the model.
 
 ## Quick Start
-1. Clone this repo: `git clone https://github.com/Feadosi/Museum-Nesvizh.git`
-2. Navigate to the repo: `cd Museum-Nesvizh`
+1. Clone this repo: `git clone https://github.com/Feadosi/Museum-13-Nesvizh.git`
+2. Navigate to the repo: `cd Museum-13-Nesvizh`
 3. Open Microchip Studio
 4. Run AVRDUDEPROG.exe
 5. Connect the programmer to the microcontroller and to the computer
